@@ -1,0 +1,7 @@
+{
+  "name": "Interview Co-Pilot",
+  "description": "A real-time AI assistant that listens to interview questions and provides high-impact, immediate answers using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
